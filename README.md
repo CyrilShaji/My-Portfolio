@@ -64,7 +64,7 @@ In this project, I utilize BERT and DistilBERT NLP models to develop a deep lear
 <p>&nbsp;</p>
 
 <div style="float: left; margin-right: 20px;">
-  <img width="250" height="220" src="Images/Mobile1.png">
+  <img width="250" height="220" src="Images/Mobile2.png">
 </div>
 <strong><a href="https://github.com/CyrilShaji/Data-Analytics-Projects/blob/main/Composite%20Score%20Statistical%20Analysis%20Mobile%20App%20Performance.ipynb">**Mobile App Performance: Composite Score Model**</a></strong>
 
