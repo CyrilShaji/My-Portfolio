@@ -11,20 +11,16 @@
 - **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
 
 ## Achievements
-<div align="left">
-<strong><em>
+
  
-- 10 Time National Winner in Pan-India Analytics Case Competitions
+- **_10 Time National Winner in Pan-India Analytics Case Competitions_**
+- **_20+ National Finalist Titles in Various B-School Competitions_**
+- **_Recognized as a Top Voice in Data Science on LinkedIn_**
+- **_In Top 50 Best Student Data Science Champion 2024_**
+- **_Completed 50+ Hands-On Analytics and ML Projects_**
 
-- 20+ National Finalist Titles in Various B-School Competitions
 
-- Recognized as a Top Voice in Data Science on LinkedIn
 
-- In Top 50 Best Student Data Scienece Champion 2024
-
-- Completed 50+ Hands-On Analytics and ML Projects 
-</em></strong>
-</div>
 
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
 
