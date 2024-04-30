@@ -11,7 +11,9 @@
 - **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
 
 ## Achievements
-<div align="left"><strong><em>
+<div align="left">
+<strong><em>
+ 
 - 10 Time National Winner in Pan-India Analytics Case Competitions
 
 - 20+ National Finalist Titles in Various B-School Competitions
