@@ -1,7 +1,7 @@
 # Data Science Portfolio - Cyril Shaji
 This portfolio showcases a collection of Data Science and Data Analysis projects I've completed for various purposes, including case competitions, hackathons, academic assignments, self-learning endeavors, and hobbies.
 
-![Portfolio Pic](Images/Github_pic_portfolio.png)
+![Portfolio Pic](Images/My_portfolio.png)
 
 - **Email**: [cyrilshaji96n@gmail.com](cyrilshaji96n@gmail.com)
 - **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
