@@ -18,12 +18,8 @@
 | MBA        | Business Analytics                | SCMHRD, Pune     | 2024     |
 | B.Tech     | Electronics and Communication     | NIT Calicut      | 2018     |
 
+<p>&nbsp;</p>
 
-
-
-   
-   
-     
 ## Achievements
 
  
