@@ -1,7 +1,9 @@
-<h1 align="center" style="font-size: 40px;">My Portfolio</h1>
 <div align="center">
-This portfolio showcases a collection of Data Science and Data Analysis projects I've completed for various purposes, including case competitions, hackathons, academic assignments, self-learning endeavors, and hobbies.
+<strong><em>This portfolio showcases a collection of Data Science and Data Analysis projects I've completed for various purposes, including case competitions, hackathons, academic assignments, self-learning endeavors, and hobbies.</em></strong>
 </div>
+
+
+<h1 align="center" style="font-size: 40px;">About Me</h1>
 
 ![Portfolio Pic](Images/My_portfolio.png)
 
@@ -19,7 +21,7 @@ This portfolio showcases a collection of Data Science and Data Analysis projects
 
 - Completed 50+ Hands-On Analytics and ML Projects 
 
-## Projects
+<h1 align="center" style="font-size: 40px;">Projects</h1>
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
