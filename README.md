@@ -21,20 +21,9 @@
        
 ## Education
 
-| **Degree** | **Stream**                        | **Institute**    | **Year** |
-|------------|-----------------------------------|------------------|----------|
-| MBA        | Business Analytics                | SCMHRD, Pune     | 2024     |
-| B.Tech     | Electronics and Communication     | NIT Calicut      | 2018     |
-
-
-
-
-
-
-
-
-
-
+<p align="left">
+  <img src="Images/EDUCATION.png" width="50%" alt="Education Image">
+</p>
 
 
 
