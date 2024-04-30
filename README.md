@@ -9,18 +9,16 @@
 
 - **Email**: [cyrilshaji96n@gmail.com](cyrilshaji96n@gmail.com)
 - **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
-  
-<p>&nbsp;</p>
 
+  
 ## Education
 
 | **Degree** | **Stream**                        | **Institute**    | **Year** |
 |------------|-----------------------------------|------------------|----------|
-| MBA        | Business Analytics                | SCMHRD, Pune     | 2018     |
-| B.Tech     | Electronics and Communication     | NIT Calicut      | 2024     |
+| MBA        | Business Analytics                | SCMHRD, Pune     | 2024     |
+| B.Tech     | Electronics and Communication     | NIT Calicut      | 2018     |
 
 
-<p>&nbsp;</p>
 
 ## Achievements
 
