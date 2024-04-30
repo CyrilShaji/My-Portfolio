@@ -11,10 +11,11 @@
 - **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
 
 ## Education
-| Degree | Stream                      | Institute      | Year         |
-|--------|-----------------------------|----------------|--------------|
-| MBA    | Business Analytics          | SCMHRD, Pune   | 2018   |
-| B.Tech | Electronics and Communication | NIT Calicut    | 2024 |
+| Degree | Stream                        | Institute    | Year |
+|--------|-------------------------------|--------------|------|
+| MBA    | Business Analytics            | SCMHRD, Pune | 2018 |
+| B.Tech | Electronics and Communication | NIT Calicut  | 2024 |
+
 
 
 
