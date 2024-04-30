@@ -1,5 +1,7 @@
-<h1 align="center" style="font-size: 36px;">My Portfolio</h1>
+<h1 align="center" style="font-size: 40px;">My Portfolio</h1>
+<div align="center">
 This portfolio showcases a collection of Data Science and Data Analysis projects I've completed for various purposes, including case competitions, hackathons, academic assignments, self-learning endeavors, and hobbies.
+</div>
 
 ![Portfolio Pic](Images/My_portfolio.png)
 
