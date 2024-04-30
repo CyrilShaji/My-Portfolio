@@ -1,4 +1,4 @@
-# Data Science Portfolio - Cyril Shaji
+<h1 align="center" style="font-size: 36px;">My Portfolio</h1>
 This portfolio showcases a collection of Data Science and Data Analysis projects I've completed for various purposes, including case competitions, hackathons, academic assignments, self-learning endeavors, and hobbies.
 
 ![Portfolio Pic](Images/My_portfolio.png)
