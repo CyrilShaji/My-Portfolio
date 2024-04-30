@@ -3,7 +3,7 @@
 </div>
 
 
-<h1 align="center" style="font-size: 40px;">About Me</h1>
+<h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">About Me</h1>
 
 ![Portfolio Pic](Images/My_portfolio.png)
 
@@ -11,6 +11,7 @@
 - **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
 
 ## Achievements
+<div align="left"><strong><em>
 - 10-Time National Winner in Pan-India Analytics Case Competitions
 
 - 20+ National Finalist Titles in Various B-School Competitions
@@ -20,8 +21,10 @@
 - In Top 50 Best Student Data Scienece Champion 2024
 
 - Completed 50+ Hands-On Analytics and ML Projects 
+</em></strong>
+</div>
 
-<h1 align="center" style="font-size: 40px;">Projects</h1>
+<h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
 
 <img align="left" width="250" height="150" src="https://github.com/archd3sai/Portfolio/blob/master/Images/telecom.jpg"> **[Customer Survival Analysis and Churn Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction)**
 
