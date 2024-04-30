@@ -12,13 +12,14 @@
 
 ## Education
 
-| Degree | Stream                        | Institute    | Year |
-|--------|-------------------------------|--------------|------|
-| MBA    | Business Analytics            | SCMHRD, Pune | 2018 |
-| B.Tech | Electronics and Communication | NIT Calicut  | 2024 |
+| **Degree** | **Stream**                        | **Institute**    | **Year** |
+|------------|-----------------------------------|------------------|----------|
+| MBA        | Business Analytics                | SCMHRD, Pune     | 2018     |
+| B.Tech     | Electronics and Communication     | NIT Calicut      | 2024     |
 
 
 
+<p>&nbsp;</p>
 
 
 ## Achievements
@@ -31,6 +32,7 @@
 - **_Completed 50+ Hands-On Analytics and ML Projects_**
 
 
+<p>&nbsp;</p>
 
 
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
