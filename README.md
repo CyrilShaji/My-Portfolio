@@ -22,7 +22,7 @@
 ## Education
 
 <p align="left">
-  <img src="Images/EDUCATION.png" width="80%" alt="Education Image">
+  <img src="Images/EDUCATION.png" width="90%" alt="Education Image">
 </p>
 
 
@@ -39,11 +39,12 @@
 <p>&nbsp;</p>
 
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
+<p>&nbsp;</p>
 
 <div style="float: left; margin-right: 20px;">
-  <img width="250" height="200" src="Images/Gender.png">
+  <img width="250" height="220" src="Images/Gender.png">
 </div>
-<strong><a href="https://github.com/CyrilShaji/Machine-Learning-Projects/blob/main/E%20Commerce%20Gender%20Prediction.ipynb">E Commerce Missing Gender Prediction</a></strong>
+<strong><a href="https://github.com/CyrilShaji/Machine-Learning-Projects/blob/main/E%20Commerce%20Gender%20Prediction.ipynb">**E Commerce Missing Gender Prediction**</a></strong>
 
 In this project, I employ machine learning classification models such as Random Forest, AdaBoost, and LightGBM to predict missing customer genders on an e-commerce platform, aiming to enhance gender-based personalization campaigns and improve click-through rates for fashion-related categories.
 
