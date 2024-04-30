@@ -1,6 +1,8 @@
 # Data Science Portfolio - Cyril Shaji
 This portfolio showcases a collection of Data Science and Data Analysis projects I've completed for various purposes, including case competitions, hackathons, academic assignments, self-learning endeavors, and hobbies.
 
+![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+
 - **Email**: [cyrilshaji96n@gmail.com](cyrilshaji96n@gmail.com)
 - **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
 
