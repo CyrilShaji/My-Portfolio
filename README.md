@@ -50,24 +50,39 @@ In this project, I employ machine learning classification models such as Random 
 
 
 
-#
-
-<img align="left" width="250" height="200" src="https://github.com/archd3sai/Portfolio/blob/master/Images/instacart.jpeg"> **[Instacart Market Basket Analysis](https://github.com/archd3sai/Instacart-Market-Basket-Analysis)**
-
-The objective of this project is to analyze the 3 million grocery orders from more than 200,000 Instacart users and predict which previously purchased item will be in user's next order. Customer segmentation and affinity analysis are also done to study user purchase patterns.
 
 
+<h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
+<p>&nbsp;</p>
+
+<div style="float: left; margin-right: 20px;">
+  <img width="250" height="220" src="Images/Disaster.png">
+</div>
+<strong><a href="https://github.com/CyrilShaji/Deep-Learning-and-NLP-Projects/blob/main/Disaster%20Tweet%20Prediction%20NLP%20Deep%20Learning.ipynb">**Disaster Tweet Detection Using NLP Deep Learning**</a></strong>
 
 
-#
+In this project, I utilize BERT and DistilBERT NLP models to develop a deep learning system for Twitter that distinguishes real-time disaster tweets from non-disaster content, serving the needs of disaster relief agencies and news outlets.
 
 
-<img align="left" width="250" height="200" src="https://github.com/archd3sai/Portfolio/blob/master/Images/1_cEaeMuTvINqIgyYQMSJWUA.jpeg"> **[Hybrid-filtering News Articles Recommendation Engine](https://github.com/archd3sai/News-Articles-Recommendation)**
- 
-A hybrid-filtering personalized news articles recommendation system which can suggest articles from popular news service providers based on reading history of twitter users who share similar interests (Collaborative filtering) and content similarity of the article and user’s tweets (Content-based filtering).
 
 
-<br />
+
+
+
+
+
+
+
+
+<h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
+<p>&nbsp;</p>
+
+<div style="float: left; margin-right: 20px;">
+  <img width="250" height="220" src="Images/Gender.png">
+</div>
+<strong><a href="https://github.com/CyrilShaji/Machine-Learning-Projects/blob/main/E%20Commerce%20Gender%20Prediction.ipynb">**E Commerce Missing Gender Prediction**</a></strong>
+
+In this project, I employ machine learning classification models such as Random Forest, AdaBoost, and LightGBM to predict missing customer genders on an e-commerce platform, aiming to enhance gender-based personalization campaigns and improve click-through rates for fashion-related categories.
 
 
 ## Core Competencies
