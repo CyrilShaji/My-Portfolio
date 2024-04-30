@@ -12,7 +12,7 @@
 
 ## Achievements
 <div align="left"><strong><em>
-- 10-Time National Winner in Pan-India Analytics Case Competitions
+- 10 Time National Winner in Pan-India Analytics Case Competitions
 
 - 20+ National Finalist Titles in Various B-School Competitions
 
