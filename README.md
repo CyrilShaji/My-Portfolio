@@ -2,7 +2,7 @@
 This portfolio showcases a collection of Data Science and Data Analysis projects I've completed for various purposes, including case competitions, hackathons, academic assignments, self-learning endeavors, and hobbies.
 
 - **Email**: [cyrilshaji96n@gmail.com](cyrilshaji96n@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/cyril-shaji-22b933147/](https://www.linkedin.com/in/cyril-shaji-22b933147/)
+- **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
 
 ## Achievements
 - 10-Time National Winner in Pan-India Analytics Case Competitions
