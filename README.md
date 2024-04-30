@@ -22,7 +22,7 @@
 ## Education
 
 <p align="left">
-  <img src="Images/EDUCATION.png" width="50%" alt="Education Image">
+  <img src="Images/EDUCATION.png" width="80%" alt="Education Image">
 </p>
 
 
