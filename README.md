@@ -9,6 +9,8 @@
 
 - **Email**: [cyrilshaji96n@gmail.com](cyrilshaji96n@gmail.com)
 - **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
+  
+<p>&nbsp;</p>
 
 ## Education
 
@@ -18,9 +20,7 @@
 | B.Tech     | Electronics and Communication     | NIT Calicut      | 2024     |
 
 
-
 <p>&nbsp;</p>
-
 
 ## Achievements
 
@@ -31,9 +31,7 @@
 - **_In Top 50 Best Student Data Science Champion 2024_**
 - **_Completed 50+ Hands-On Analytics and ML Projects_**
 
-
 <p>&nbsp;</p>
-
 
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
 
