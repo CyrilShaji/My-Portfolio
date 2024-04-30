@@ -64,12 +64,13 @@ In this project, I utilize BERT and DistilBERT NLP models to develop a deep lear
 <p>&nbsp;</p>
 
 <div style="float: left; margin-right: 20px;">
-  <img width="250" height="220" src="Images/Mobile.png">
+  <img width="250" height="220" src="Images/Mobile1.png">
 </div>
 <strong><a href="https://github.com/CyrilShaji/Data-Analytics-Projects/blob/main/Composite%20Score%20Statistical%20Analysis%20Mobile%20App%20Performance.ipynb">**Mobile App Performance: Composite Score Model**</a></strong>
 
 In this project, I develop a composite score statistical model that utilizes key indicators such as ratings, reviews, and downloads to quantify the performance of mobile applications. The goal is to precisely identify the top and bottom 100 apps, providing a clear measure of app success in the marketplace.
 
+<p>&nbsp;</p>
 
 ## Core Competencies
 
