@@ -10,7 +10,15 @@
 - **Email**: [cyrilshaji96n@gmail.com](cyrilshaji96n@gmail.com)
 - **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
 
-  
+## Work Experience
+
+**Data Scientist @ IBM (_Present_)**
+
+**Data Science Intern @ Optum(UHG) (_April 2023 - June 2023_)**
+
+**Staff Consultant @ Oracle (_July 2018 - July 2021_)**
+
+       
 ## Education
 
 | **Degree** | **Stream**                        | **Institute**    | **Year** |
@@ -18,7 +26,17 @@
 | MBA        | Business Analytics                | SCMHRD, Pune     | 2024     |
 | B.Tech     | Electronics and Communication     | NIT Calicut      | 2018     |
 
-<p>&nbsp;</p>
+
+
+
+
+
+
+
+
+
+
+
 
 ## Achievements
 
