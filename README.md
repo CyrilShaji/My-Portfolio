@@ -60,6 +60,14 @@ In this project, I employ machine learning classification models such as Random 
 
 In this project, I utilize BERT and DistilBERT NLP models to develop a deep learning system for Twitter that distinguishes real-time disaster tweets from non-disaster content, serving the needs of disaster relief agencies and news outlets.
 
+<p>&nbsp;</p>
+
+<div style="float: left; margin-right: 20px;">
+  <img width="250" height="220" src="Images/youtube.png">
+</div>
+<strong><a href="https://app.powerbi.com/groups/me/reports/abd6fdc0-e8c4-4d77-83e9-4027199dea5e/ReportSection?experience=power-bi">**Global Youtube Analytics Dashboard**</a></strong>
+
+In this project, I developed a comprehensive YouTube analytics dashboard using Power BI that provides insights into channel performance categorized by type, trend analysis over time, top channel metrics, and geographical distribution
 
 <p>&nbsp;</p>
 
