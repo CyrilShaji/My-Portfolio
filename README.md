@@ -1,5 +1,5 @@
 <div align="center">
-<strong><em>This portfolio showcases a collection of Data Science and Data Analysis projects I've completed for various purposes, including case competitions, hackathons, academic assignments, self-learning endeavors, and hobbies.</em></strong>
+<strong><em>This portfolio highlights my achievements, certifications, and a range of Data Science and Data Analysis projects spanning case competitions, hackathons, academics, and personal interests</em></strong>
 </div>
 
 
