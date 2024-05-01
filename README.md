@@ -30,9 +30,8 @@
 - 🌟 **_Recognized as a Top Voice in Data Science on LinkedIn_**
 - 📊 **_In Top 50 Best Student Data Science Champion 2024_**
 - 🛠️ **_Completed 50+ Hands-On Analytics and ML Projects_**
-
+  
 <br>
-
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
 <p>&nbsp;</p>
 
