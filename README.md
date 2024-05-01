@@ -113,4 +113,4 @@ In this project, I develop a composite score statistical model that utilizes key
     <img src="Images/Linkedin.png" alt="LinkedIn" width="50" height="50">
   </a>
 </p>
-<p align="center" style="margin-top: 10px;"><strong><em>Empowering decisions through data-driven insights</em></strong></p>
+<p align="center" style="margin-top: 10px;"><strong><em>Empowering Decisions Through Data-Driven Insights</em></strong></p>
