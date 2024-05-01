@@ -101,7 +101,7 @@ In this project, I develop a composite score statistical model that utilizes key
 
 <p align="center">
   <a href="mailto:cyrilshaji96n@gmail.com">
-    <img src="Images/email1.png" alt="Email" width="70" height="70">
+    <img src="Images/email3.png" alt="Email" width="70" height="70">
   </a>
   <a href="https://github.com/CyrilShaji">
     <img src="Images/git.png" alt="GitHub" width="70" height="70">
