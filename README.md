@@ -5,9 +5,6 @@
 
 ![Portfolio Pic](Images/My_portfolio.png)
 
-- **Email**: [cyrilshaji96n@gmail.com](cyrilshaji96n@gmail.com)
-- **LinkedIn**: [linkedin/cyril-shaji](https://www.linkedin.com/in/cyril-shaji-22b933147/)
-
 ## Work Experience
 
 - **Data Scientist @ IBM** (_Present_)
@@ -104,13 +101,13 @@ In this project, I develop a composite score statistical model that utilizes key
 
 <p align="center">
   <a href="mailto:cyrilshaji96n@gmail.com">
-    <img src="Images/email1.png" alt="Email" width="50" height="50">
+    <img src="Images/email1.png" alt="Email" width="70" height="70">
   </a>
   <a href="https://github.com/CyrilShaji">
-    <img src="Images/git.png" alt="GitHub" width="50" height="50">
+    <img src="Images/git.png" alt="GitHub" width="70" height="70">
   </a>
   <a href="https://www.linkedin.com/in/cyril-shaji-22b933147/">
-    <img src="Images/Linkedin.png" alt="LinkedIn" width="50" height="50">
+    <img src="Images/Linkedin.png" alt="LinkedIn" width="70" height="70">
   </a>
 </p>
 <p align="center" style="margin-top: 10px;"><strong><em>Empowering Decisions Through Data-Driven Insights</em></strong></p>
