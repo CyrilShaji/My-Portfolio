@@ -20,7 +20,7 @@
 ## Education
 
 <p align="left">
-  <img src="Images/EDUCATION.png" width="90%" alt="Education Image">
+  <img src="Images/EDUCATION.png" width="95%" alt="Education Image">
 </p>
 
 
@@ -104,13 +104,13 @@ In this project, I develop a composite score statistical model that utilizes key
 
 <p align="center">
   <a href="mailto:cyrilshaji96n@gmail.com">
-    <img src="https://github.com/CyrilShaji/My-Portfolio/blob/main/Images/email.png" alt="Email" width="40" height="40">
+    <img src="Images/email.png" alt="Email" width="40" height="40">
   </a>
   <a href="https://github.com/CyrilShaji">
-    <img src="https://github.com/CyrilShaji/My-Portfolio/blob/main/Images/git.png" alt="GitHub" width="40" height="40">
+    <img src="Images/git.png" alt="GitHub" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/cyril-shaji-22b933147/">
-    <img src="https://github.com/CyrilShaji/My-Portfolio/blob/main/Images/Linkedin.png" alt="LinkedIn" width="40" height="40">
+    <img src="Images/Linkedin.png" alt="LinkedIn" width="40" height="40">
   </a>
 </p>
 
