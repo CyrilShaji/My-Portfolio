@@ -25,13 +25,13 @@
 ## Achievements
 
  
-- **_10 Time National Winner in Pan-India Analytics Case Competitions_**
-- **_20+ National Finalist Titles in Various B-School Competitions_**
-- **_Recognized as a Top Voice in Data Science on LinkedIn_**
-- **_In Top 50 Best Student Data Science Champion 2024_**
-- **_Completed 50+ Hands-On Analytics and ML Projects_**
+- 🏆 **_10 Time National Winner in Pan-India Analytics Case Competitions_**
+- 🥈 **_20+ National Finalist Titles in Various B-School Competitions_**
+- 🌟 **_Recognized as a Top Voice in Data Science on LinkedIn_**
+- 📊 **_In Top 50 Best Student Data Science Champion 2024_**
+- 🛠️ **_Completed 50+ Hands-On Analytics and ML Projects_**
 
-<p>&nbsp;</p>
+<br><br>
 
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
 <p>&nbsp;</p>
