@@ -1,6 +1,4 @@
-<div align="center">
-<strong><em>This portfolio highlights my achievements, certifications, and a range of Data Science and Data Analysis projects spanning case competitions, hackathons, academics, and personal interests</em></strong>
-</div>
+
 
 
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">About Me</h1>
