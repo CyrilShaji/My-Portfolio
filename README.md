@@ -97,4 +97,20 @@ In this project, I develop a composite score statistical model that utilizes key
 - [Visualizing Data with Tableau & Power BI by Kubicle](https://github.com/CyrilShaji/My-Portfolio/blob/main/Github%20Certificates/Kubicle%20Diploma%20Visualizing%20Data%20with%20Tableau%20%26%20Power%20BI.pdf)
   
 - [Natural Language Processing in Microsoft Azure by Microsoft](https://github.com/CyrilShaji/My-Portfolio/blob/main/Github%20Certificates/NLP%20in%20Microsoft%20Azure.pdf)
-  
+
+
+<p>&nbsp;</p>
+
+
+<p align="center">
+  <a href="mailto:cyrilshaji96n@gmail.com">
+    <img src="https://github.com/CyrilShaji/My-Portfolio/blob/main/Images/email.png" alt="Email" width="40" height="40">
+  </a>
+  <a href="https://github.com/CyrilShaji">
+    <img src="https://github.com/CyrilShaji/My-Portfolio/blob/main/Images/git.png" alt="GitHub" width="40" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/cyril-shaji-22b933147/">
+    <img src="https://github.com/CyrilShaji/My-Portfolio/blob/main/Images/Linkedin.png" alt="LinkedIn" width="40" height="40">
+  </a>
+</p>
+
