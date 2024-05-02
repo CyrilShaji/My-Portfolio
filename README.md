@@ -38,25 +38,25 @@
 
 <div style="text-align: center; margin-bottom: 20px;">
   <h3 style="font-size: 20px; margin-top: 0; margin-bottom: 10px;"><a href="https://github.com/CyrilShaji/Machine-Learning-Projects/blob/main/E%20Commerce%20Gender%20Prediction.ipynb">E Commerce Missing Gender Prediction</a></h3>
-  <img width="250" height="220" src="Images/Gender.png" alt="E-Commerce Gender Prediction" style="margin-bottom: 10px;">
+  <img width="300" height="220" src="Images/Gender.png" alt="E-Commerce Gender Prediction" style="margin-bottom: 10px;">
   <p>In this project, I employ machine learning classification models such as Random Forest, AdaBoost, and LightGBM to predict missing customer genders on an e-commerce platform, aiming to enhance gender-based personalization campaigns and improve click-through rates for fashion-related categories.</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
   <h3 style="font-size: 20px; margin-top: 0; margin-bottom: 10px;"><a href="https://github.com/CyrilShaji/Deep-Learning-and-NLP-Projects/blob/main/Disaster%20Tweet%20Prediction%20NLP%20Deep%20Learning.ipynb">Disaster Tweet Detection Using NLP Deep Learning</a></h3>
-  <img width="250" height="220" src="Images/Disaster.png" alt="Disaster Tweet Detection" style="margin-bottom: 10px;">
+  <img width="300" height="220" src="Images/Disaster.png" alt="Disaster Tweet Detection" style="margin-bottom: 10px;">
   <p>In this project, I utilize BERT and DistilBERT NLP models to develop a deep learning system for Twitter that distinguishes real-time disaster tweets from non-disaster content, serving the needs of disaster relief agencies and news outlets.</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
   <h3 style="font-size: 20px; margin-top: 0; margin-bottom: 10px;"><a href="https://app.powerbi.com/groups/me/reports/abd6fdc0-e8c4-4d77-83e9-4027199dea5e/ReportSection?experience=power-bi">Global YouTube Analytics Dashboard</a></h3>
-  <img width="250" height="220" src="Images/youtube.png" alt="Global Youtube Analytics Dashboard" style="margin-bottom: 10px;">
+  <img width="300" height="220" src="Images/youtube.png" alt="Global Youtube Analytics Dashboard" style="margin-bottom: 10px;">
   <p>In this project, I developed a comprehensive YouTube analytics dashboard using Power BI that provides insights into channel performance categorized by type, trend analysis over time, top channel metrics, and geographical distribution.</p>
 </div>
 
 <div style="text-align: center; margin-bottom: 20px;">
   <h3 style="font-size: 20px; margin-top: 0; margin-bottom: 10px;"><a href="https://github.com/CyrilShaji/Data-Analytics-Projects/blob/main/Composite%20Score%20Statistical%20Analysis%20Mobile%20App%20Performance.ipynb">Mobile App Performance: Composite Score Model</a></h3>
-  <img width="250" height="220" src="Images/Mobile2.png" alt="Mobile App Performance: Composite Score Model" style="margin-bottom: 10px;">
+  <img width="300" height="220" src="Images/Mobile2.png" alt="Mobile App Performance: Composite Score Model" style="margin-bottom: 10px;">
   <p>In this project, I develop a composite score statistical model that utilizes key indicators such as ratings, reviews, and downloads to quantify the performance of mobile applications. The goal is to precisely identify the top and bottom 100 apps, providing a clear measure of app success in the marketplace.</p>
 </div>
 
