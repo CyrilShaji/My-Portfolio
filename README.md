@@ -4,7 +4,11 @@
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">About Me</h1>
 
 <p align="center">
-  <img src="Images/github_photo_circle.png" alt="Portfolio Pic" width="200" height="200">
+  <img src="Images/github_photo_circle.png" alt="Portfolio Pic" width="400" height="400">
+</p>
+
+<p align="center">
+  <img src="Images/Cover_Page.png" alt="Portfolio Cover Pic" width="1000" height="400">
 </p>
 
 
