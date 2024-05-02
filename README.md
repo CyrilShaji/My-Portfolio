@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="Images/cover_gif.gif" alt="Portfolio Cover Pic" width="500" height="150">
+  <img src="Images/covergif1.gif" alt="Portfolio Cover Pic" width="500" height="150">
 </p>
 
 
