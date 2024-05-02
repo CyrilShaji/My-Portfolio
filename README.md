@@ -7,8 +7,6 @@
   <img src="Images/My_portfolio.png" alt="Portfolio Pic" width="500" height="auto">
 </p>
 
-<-- ![Portfolio Pic](Images/My_portfolio.png) -->
-
 ## Work Experience
 
 - **Data Scientist @ IBM** (_Present_)
