@@ -3,7 +3,11 @@
 
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">About Me</h1>
 
-![Portfolio Pic](Images/My_portfolio.png)
+<p align="center">
+  <img src="Images/My_portfolio.png" alt="Portfolio Pic" width="500" height="auto">
+</p>
+
+<-- ![Portfolio Pic](Images/My_portfolio.png) -->
 
 ## Work Experience
 
