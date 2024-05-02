@@ -38,10 +38,9 @@
 - 🛠️ **_Completed 50+ Hands-On Analytics and ML Projects_**
   
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
-<p>&nbsp;</p>
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <h3 style="font-size: 20px; margin-top: 0; margin-bottom: 10px;"><a href="https://github.com/CyrilShaji/Machine-Learning-Projects/blob/main/E%20Commerce%20Gender%20Prediction.ipynb">1. E Commerce Missing Gender Prediction</a></h3>
+  <h3 style="font-size: 20px; margin-top: 0; margin-bottom: 10px;"><a href="https://github.com/CyrilShaji/Machine-Learning-Projects/blob/main/E%20Commerce%20Gender%20Prediction.ipynb">1. E-Commerce Missing Gender Prediction</a></h3>
   <img width="300" height="220" src="Images/Gender.png" alt="E-Commerce Gender Prediction" style="margin-bottom: 10px;">
   <p>In this project, I employ machine learning classification models such as Random Forest, AdaBoost, and LightGBM to predict missing customer genders on an e-commerce platform, aiming to enhance gender-based personalization campaigns and improve click-through rates for fashion-related categories.</p>
 </div>
