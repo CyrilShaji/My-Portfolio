@@ -38,7 +38,7 @@
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 20px;">
-    <img width="250" height="200" src="Images/Gender.png" alt="E-Commerce Gender Prediction">
+    <img width="250" height="180" src="Images/Gender.png" alt="E-Commerce Gender Prediction">
   </div>
   <div style="overflow: hidden;">
     <strong><a href="https://github.com/CyrilShaji/Machine-Learning-Projects/blob/main/E%20Commerce%20Gender%20Prediction.ipynb">E Commerce Missing Gender Prediction</a></strong>
@@ -48,7 +48,7 @@
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 20px;">
-    <img width="250" height="200" src="Images/Disaster.png" alt="Disaster Tweet Detection">
+    <img width="250" height="180" src="Images/Disaster.png" alt="Disaster Tweet Detection">
   </div>
   <div style="overflow: hidden;">
     <strong><a href="https://github.com/CyrilShaji/Deep-Learning-and-NLP-Projects/blob/main/Disaster%20Tweet%20Prediction%20NLP%20Deep%20Learning.ipynb">Disaster Tweet Detection Using NLP Deep Learning</a></strong>
@@ -58,7 +58,7 @@
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 20px;">
-    <img width="250" height="200" src="Images/youtube.png" alt="Global Youtube Analytics Dashboard">
+    <img width="250" height="180" src="Images/youtube.png" alt="Global Youtube Analytics Dashboard">
   </div>
   <div style="overflow: hidden;">
     <strong><a href="https://app.powerbi.com/groups/me/reports/abd6fdc0-e8c4-4d77-83e9-4027199dea5e/ReportSection?experience=power-bi">Global Youtube Analytics Dashboard</a></strong>
@@ -68,7 +68,7 @@
 
 <div style="clear: both;">
   <div style="float: left; margin-right: 20px;">
-    <img width="250" height="200" src="Images/Mobile2.png" alt="Mobile App Performance: Composite Score Model">
+    <img width="250" height="180" src="Images/Mobile2.png" alt="Mobile App Performance: Composite Score Model">
   </div>
   <div style="overflow: hidden;">
     <strong><a href="https://github.com/CyrilShaji/Data-Analytics-Projects/blob/main/Composite%20Score%20Statistical%20Analysis%20Mobile%20App%20Performance.ipynb">Mobile App Performance: Composite Score Model</a></strong>
@@ -77,7 +77,6 @@
 </div>
 
 
-<p>&nbsp;</p>
 
 ## Core Competencies
 
