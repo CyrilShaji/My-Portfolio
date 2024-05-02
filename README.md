@@ -36,42 +36,42 @@
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">Projects</h1>
 <p>&nbsp;</p>
 
-<div style="clear: both;">
-  <div style="float: left; margin-right: 20px;">
-    <img width="250" height="180" src="Images/Gender.png" alt="E-Commerce Gender Prediction">
+<div style="clear: both; display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img width="250" height="220" src="Images/Gender.png" alt="E-Commerce Gender Prediction">
   </div>
-  <div style="overflow: hidden;">
-    <strong><a href="https://github.com/CyrilShaji/Machine-Learning-Projects/blob/main/E%20Commerce%20Gender%20Prediction.ipynb">E Commerce Missing Gender Prediction</a></strong>
+  <div style="flex-grow: 1;">
+    <h3 style="font-size: 20px; margin-top: 0; margin-bottom: 10px;"><a href="https://github.com/CyrilShaji/Machine-Learning-Projects/blob/main/E%20Commerce%20Gender%20Prediction.ipynb">E Commerce Missing Gender Prediction</a></h3>
     <p>In this project, I employ machine learning classification models such as Random Forest, AdaBoost, and LightGBM to predict missing customer genders on an e-commerce platform, aiming to enhance gender-based personalization campaigns and improve click-through rates for fashion-related categories.</p>
   </div>
 </div>
 
-<div style="clear: both;">
-  <div style="float: left; margin-right: 20px;">
-    <img width="250" height="180" src="Images/Disaster.png" alt="Disaster Tweet Detection">
+<div style="clear: both; display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img width="250" height="220" src="Images/Disaster.png" alt="Disaster Tweet Detection">
   </div>
-  <div style="overflow: hidden;">
-    <strong><a href="https://github.com/CyrilShaji/Deep-Learning-and-NLP-Projects/blob/main/Disaster%20Tweet%20Prediction%20NLP%20Deep%20Learning.ipynb">Disaster Tweet Detection Using NLP Deep Learning</a></strong>
+  <div style="flex-grow: 1;">
+    <h3 style="font-size: 20px; margin-top: 0; margin-bottom: 10px;"><a href="https://github.com/CyrilShaji/Deep-Learning-and-NLP-Projects/blob/main/Disaster%20Tweet%20Prediction%20NLP%20Deep%20Learning.ipynb">Disaster Tweet Detection Using NLP Deep Learning</a></h3>
     <p>In this project, I utilize BERT and DistilBERT NLP models to develop a deep learning system for Twitter that distinguishes real-time disaster tweets from non-disaster content, serving the needs of disaster relief agencies and news outlets.</p>
   </div>
 </div>
 
-<div style="clear: both;">
-  <div style="float: left; margin-right: 20px;">
-    <img width="250" height="180" src="Images/youtube.png" alt="Global Youtube Analytics Dashboard">
+<div style="clear: both; display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img width="250" height="220" src="Images/youtube.png" alt="Global Youtube Analytics Dashboard">
   </div>
-  <div style="overflow: hidden;">
-    <strong><a href="https://app.powerbi.com/groups/me/reports/abd6fdc0-e8c4-4d77-83e9-4027199dea5e/ReportSection?experience=power-bi">Global Youtube Analytics Dashboard</a></strong>
+  <div style="flex-grow: 1;">
+    <h3 style="font-size: 20px; margin-top: 0; margin-bottom: 10px;"><a href="https://app.powerbi.com/groups/me/reports/abd6fdc0-e8c4-4d77-83e9-4027199dea5e/ReportSection?experience=power-bi">Global YouTube Analytics Dashboard</a></h3>
     <p>In this project, I developed a comprehensive YouTube analytics dashboard using Power BI that provides insights into channel performance categorized by type, trend analysis over time, top channel metrics, and geographical distribution.</p>
   </div>
 </div>
 
-<div style="clear: both;">
-  <div style="float: left; margin-right: 20px;">
-    <img width="250" height="180" src="Images/Mobile2.png" alt="Mobile App Performance: Composite Score Model">
+<div style="clear: both; display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 20px;">
+    <img width="250" height="220" src="Images/Mobile2.png" alt="Mobile App Performance: Composite Score Model">
   </div>
-  <div style="overflow: hidden;">
-    <strong><a href="https://github.com/CyrilShaji/Data-Analytics-Projects/blob/main/Composite%20Score%20Statistical%20Analysis%20Mobile%20App%20Performance.ipynb">Mobile App Performance: Composite Score Model</a></strong>
+  <div style="flex-grow: 1;">
+    <h3 style="font-size: 20px; margin-top: 0; margin-bottom: 10px;"><a href="https://github.com/CyrilShaji/Data-Analytics-Projects/blob/main/Composite%20Score%20Statistical%20Analysis%20Mobile%20App%20Performance.ipynb">Mobile App Performance: Composite Score Model</a></h3>
     <p>In this project, I develop a composite score statistical model that utilizes key indicators such as ratings, reviews, and downloads to quantify the performance of mobile applications. The goal is to precisely identify the top and bottom 100 apps, providing a clear measure of app success in the marketplace.</p>
   </div>
 </div>
