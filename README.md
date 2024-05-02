@@ -4,7 +4,7 @@
 <h1 align="center" style="font-size: 40px; color: black; font-weight: bold;">About Me</h1>
 
 <p align="center">
-  <img src="Images/My_portfolio.png" alt="Portfolio Pic" width="1000" height="auto">
+  <img src="Images/My_portfolio.png" alt="Portfolio Pic" width="1500" height="1000">
 </p>
 
 ## Work Experience
