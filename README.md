@@ -7,9 +7,6 @@
   <img src="Images/github_photo_circle.png" alt="Portfolio Pic" width="300" height="300">
 </p>
 
-<p align="center">
-  <img src="Images/covergif1.gif" alt="Portfolio Cover Pic" width="500" height="150">
-</p>
 
 
 ## Work Experience
